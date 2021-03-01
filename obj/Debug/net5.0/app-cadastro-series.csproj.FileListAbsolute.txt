@@ -1,0 +1,16 @@
+C:\Users\Luciana\Documents\repos\app-cadastro-series\obj\Debug\net5.0\app-cadastro-series.csprojAssemblyReference.cache
+C:\Users\Luciana\Documents\repos\app-cadastro-series\obj\Debug\net5.0\app-cadastro-series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luciana\Documents\repos\app-cadastro-series\obj\Debug\net5.0\app-cadastro-series.AssemblyInfoInputs.cache
+C:\Users\Luciana\Documents\repos\app-cadastro-series\obj\Debug\net5.0\app-cadastro-series.AssemblyInfo.cs
+C:\Users\Luciana\Documents\repos\app-cadastro-series\obj\Debug\net5.0\app-cadastro-series.csproj.CoreCompileInputs.cache
+C:\Users\Luciana\Documents\repos\app-cadastro-series\bin\Debug\net5.0\app-cadastro-series.exe
+C:\Users\Luciana\Documents\repos\app-cadastro-series\bin\Debug\net5.0\app-cadastro-series.deps.json
+C:\Users\Luciana\Documents\repos\app-cadastro-series\bin\Debug\net5.0\app-cadastro-series.runtimeconfig.json
+C:\Users\Luciana\Documents\repos\app-cadastro-series\bin\Debug\net5.0\app-cadastro-series.runtimeconfig.dev.json
+C:\Users\Luciana\Documents\repos\app-cadastro-series\bin\Debug\net5.0\app-cadastro-series.dll
+C:\Users\Luciana\Documents\repos\app-cadastro-series\bin\Debug\net5.0\ref\app-cadastro-series.dll
+C:\Users\Luciana\Documents\repos\app-cadastro-series\bin\Debug\net5.0\app-cadastro-series.pdb
+C:\Users\Luciana\Documents\repos\app-cadastro-series\obj\Debug\net5.0\app-cadastro-series.dll
+C:\Users\Luciana\Documents\repos\app-cadastro-series\obj\Debug\net5.0\ref\app-cadastro-series.dll
+C:\Users\Luciana\Documents\repos\app-cadastro-series\obj\Debug\net5.0\app-cadastro-series.pdb
+C:\Users\Luciana\Documents\repos\app-cadastro-series\obj\Debug\net5.0\app-cadastro-series.genruntimeconfig.cache
